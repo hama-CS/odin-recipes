@@ -1,6 +1,20 @@
 * {	
-	padding: 0px;
-	margin: 0px;
+	padding: auto;
+	margin: auto;
 	background-color: grey;
+}
 
+
+.header {
+	background-color: #333;
+	color: #fff;
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+.navbar {
+	background-color: #333;
+	color: #fff;
+	text-align: center;
+	margin-bottom: 20px;
 }
